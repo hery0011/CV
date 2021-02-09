@@ -1,0 +1,29 @@
+.cadre{
+	border:1px solid blue;
+	background-color: #004466;
+}
+.image{
+	border-radius: 120px;
+}
+.nom{
+	color: white;
+	font-size: 40px;
+}
+.titre{
+	font-size: 25px;
+	color: white;
+	margin-left: 70px;
+}
+.lettre{
+	color: white;
+}
+.bloc{
+	border: 1px solid white;
+}
+.sousTitre{
+	font-family: Comic Sans MS;
+	font-size: 23px;
+}
+.sous{
+	font-size: 20px;
+}
